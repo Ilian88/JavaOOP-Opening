@@ -1,8 +1,8 @@
 # JavaOOP-Opening
 
 #Task
-Problem description :
-Your task is to create a bakery, which stores employees by creating the classes described below.
+##Problem description :
+###Your task is to create a bakery, which stores employees by creating the classes described below.
 First, write a Java class Employee with the following properties:
     • name: String
     • age: int
